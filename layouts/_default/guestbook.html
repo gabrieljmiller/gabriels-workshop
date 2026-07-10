@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+<article class="post">
+
+    <header class="post-header">
+        <h1>{{ .Title }}</h1>
+        <p class="back-link">
+            <a href="/">← Back to Gabriel's Workshop</a>
+        </p>
+    </header>
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+
+    <form id="guestbook-form">
+
+        <label>Name</label>
+
+        <input
+            id="name"
+            maxlength="50"
+            required>
+
+        <label>Message</label>
+
+        <textarea
+            id="message"
+            maxlength="1000"
+            required></textarea>
+
+        <button type="submit">
+            Sign the Logbook
+        </button>
+
+        <p id="status"></p>
+
+    </form>
+
+    <hr>
+
+    <div id="entries">
+        Loading...
+    </div>
+
+</article>
+
+<script src="/js/guestbook.js"></script>
+
+{{ end }}
