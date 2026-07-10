@@ -47,4 +47,51 @@ async function loadEntries() {
 }
 
 
+// Submit a new guestbook entry
+document
+.getElementById("guestbook-form")
+.addEventListener("submit", async function(e) {
+
+    e.preventDefault();
+
+    const name = document.getElementById("name").value;
+    const message = document.getElementById("message").value;
+
+    const response = await fetch(api, {
+
+        method: "POST",
+
+        headers: {
+            "Content-Type": "application/json"
+        },
+
+        body: JSON.stringify({
+            name: name,
+            message: message
+        })
+
+    });
+
+
+    if (response.ok) {
+
+        document.getElementById("status").textContent =
+            "Thanks for signing!";
+
+        this.reset();
+
+        loadEntries();
+
+    } else {
+
+        document.getElementById("status").textContent =
+            "Something went wrong.";
+
+        console.log(await response.text());
+
+    }
+
+});
+
+
 loadEntries();
