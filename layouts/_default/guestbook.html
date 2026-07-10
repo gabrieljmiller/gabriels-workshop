@@ -1,18 +1,18 @@
 {{ define "main" }}
 
-<article class="post">
+<article class="page">
 
-    <header class="post-header">
+    <header class="page-header">
         <h1>{{ .Title }}</h1>
         <p class="back-link">
             <a href="/">← Back to Gabriel's Workshop</a>
         </p>
     </header>
 
-    <div class="post-content">
+    <div class="page">
         {{ .Content }}
     </div>
-
+    <div class="page">
     <form id="guestbook-form">
 
         <label>Name</label>
@@ -36,7 +36,7 @@
         <p id="status"></p>
 
     </form>
-
+    </div>
     <hr>
 
     <div id="entries">

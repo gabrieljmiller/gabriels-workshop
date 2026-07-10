@@ -28,6 +28,13 @@
 				<description>&lt;p&gt;Thanks for visiting my website. Sign the guestbook to let me know you stopped by!&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>My Every-Day Carry</title>
+				<link>http://localhost:1313/posts/edc/</link>
+				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/edc/</guid>
+				<description>&lt;img src=&#34;http://localhost:1313/images/edc.jpeg&#34; width=&#34;500&#34; &gt;&#xD;&#xA;&lt;p&gt;Pictured above is what can most often be found in my pockets at any given time.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;i&gt;From top left to bottom right&lt;/i&gt;&#xD;&#xA;&lt;H3&gt;Field Notes&lt;/H3&gt;&#xD;&#xA;&lt;p&gt;This is my favorite item in my EDC and has been a game changer after replacing my smartphone. I use a pocket notebook for my to-do list, grocery list, random ideas, stuff to google later, and doodles. Anything important gets noted in Obsidian the next time I am at my desk. This helps me be more mindful and focused compared to using my phone for notes.&#xD;&#xA;&lt;p&gt;I also love the Field Notes brand and I am planning to buy all their national parks editions. But eventually I might get into making my own pocket notebooks.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>My Music</title>
 				<link>http://localhost:1313/music/</link>
 				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
