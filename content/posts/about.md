@@ -22,6 +22,8 @@ Guitar
 
 Reading
 
+Tabletop RPGs
+
 <br>
 This is where I put stuff I make and occasionally write blog posts.
 
