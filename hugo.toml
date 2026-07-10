@@ -1,0 +1,8 @@
+baseURL = 'https://gabrielmiller.net/'
+locale = 'en-us'
+title = "Gabriel's Workshop"
+theme = 'drishtikon'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

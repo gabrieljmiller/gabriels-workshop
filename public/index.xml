@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gabriel&#39;s Workshop</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Gabriel&#39;s Workshop</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About me</title>
+				<link>http://localhost:1313/posts/about/</link>
+				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/about/</guid>
+				<description>&lt;div class=&#34;about-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;about-text&#34;&gt;&#xD;&#xA;&lt;p&gt;Hello and welcome to my website! My name is Gabriel. I&amp;rsquo;m a 23-year-old foster dad who works in IT from my home in Carroll County, Ohio.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;My hobbies include:&#xD;&#xA;&lt;p&gt;Tech&lt;/p&gt;&#xA;&lt;p&gt;Gardening&lt;/p&gt;&#xA;&lt;p&gt;Guitar&lt;/p&gt;&#xA;&lt;p&gt;Reading&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;This is where I put stuff I make and occasionally write blog posts.&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;about-photo&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/me.jpg&#34; alt=&#34;Photo of Gabriel&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>My Music</title>
+				<link>http://localhost:1313/music/</link>
+				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/music/</guid>
+				<description>&lt;div class=&#34;music-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;album&#34;&gt;&#xD;&#xA;&lt;iframe width=&#34;300&#34; height=&#34;400&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay; encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2057565261&amp;color=%23393b3b&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/gabriel-550564211&#34; title=&#34;Gabriel&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Gabriel&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/gabriel-550564211/sets/field-fragments&#34; title=&#34;Field Fragments&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Field Fragments&lt;/a&gt;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;album&#34;&gt;&#xD;&#xA;&lt;iframe width=&#34;300&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay; encrypted-media&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2137550211&amp;color=%23a69886&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/gabriel-550564211&#34; title=&#34;Gabriel&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Gabriel&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/gabriel-550564211/oil-well&#34; title=&#34;Oil Well&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Oil Well&lt;/a&gt;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>The Journey of Zenda</title>
+				<link>http://localhost:1313/the-journey-of-zenda/</link>
+				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/the-journey-of-zenda/</guid>
+				<description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/1448860?color=5f6ab6&#34; allowfullscreen=&#34;&#34; width=&#34;1024&#34; height=&#34;1044&#34;&gt;&lt;a href=&#34;https://gabriel-miller.itch.io/journey-of-zenda&#34;&gt;Play The Journey of Zenda on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+			</item>
+	</channel>
+</rss>

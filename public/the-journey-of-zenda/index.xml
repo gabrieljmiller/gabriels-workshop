@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The-Journey-of-Zenda on Gabriel&#39;s Workshop</title>
+		<link>http://localhost:1313/the-journey-of-zenda/</link>
+		<description>Recent content in The-Journey-of-Zenda on Gabriel&#39;s Workshop</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 09 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/the-journey-of-zenda/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Journey of Zenda</title>
+				<link>http://localhost:1313/the-journey-of-zenda/tjos/</link>
+				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/the-journey-of-zenda/tjos/</guid>
+				<description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/1448860?color=5f6ab6&#34; allowfullscreen=&#34;&#34; width=&#34;1024&#34; height=&#34;800&#34;&gt;&lt;a href=&#34;https://gabriel-miller.itch.io/journey-of-zenda&#34;&gt;Play The Journey of Zenda on itch.io&lt;/a&gt;&lt;/iframe&gt;</description>
+			</item>
+	</channel>
+</rss>
