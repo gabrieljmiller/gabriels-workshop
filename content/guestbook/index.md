@@ -5,4 +5,4 @@ title = 'Guestbook'
 layout = 'guestbook'
 +++
 
-Welcome! Feel free to leave a message.
+Thanks for visiting my website. Sign the guestbook to let me know you stopped by!

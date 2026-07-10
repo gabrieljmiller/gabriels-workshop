@@ -25,6 +25,9 @@ Reading
 <br>
 This is where I put stuff I make and occasionally write blog posts.
 
+<br>
+email me at gabriel@gabrielmiller.net
+
 </div>
 
 <div class="about-photo">

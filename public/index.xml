@@ -18,14 +18,14 @@
 				<link>http://localhost:1313/posts/about/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/about/</guid>
-				<description>&lt;div class=&#34;about-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;about-text&#34;&gt;&#xD;&#xA;&lt;p&gt;Hello and welcome to my website! My name is Gabriel. I&amp;rsquo;m a 23-year-old foster dad who works in IT from my home in Carroll County, Ohio.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;My hobbies include:&#xD;&#xA;&lt;p&gt;Tech&lt;/p&gt;&#xA;&lt;p&gt;Gardening&lt;/p&gt;&#xA;&lt;p&gt;Guitar&lt;/p&gt;&#xA;&lt;p&gt;Reading&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;This is where I put stuff I make and occasionally write blog posts.&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;about-photo&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/me.jpg&#34; alt=&#34;Photo of Gabriel&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+				<description>&lt;div class=&#34;about-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;about-text&#34;&gt;&#xD;&#xA;&lt;p&gt;Hello and welcome to my website! My name is Gabriel. I&amp;rsquo;m a 23-year-old foster dad who works in IT from my home in Carroll County, Ohio.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;My hobbies include:&#xD;&#xA;&lt;p&gt;Tech&lt;/p&gt;&#xA;&lt;p&gt;Gardening&lt;/p&gt;&#xA;&lt;p&gt;Guitar&lt;/p&gt;&#xA;&lt;p&gt;Reading&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;This is where I put stuff I make and occasionally write blog posts.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;email me at gabriel@gabrielmiller.net&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;about-photo&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/me.jpg&#34; alt=&#34;Photo of Gabriel&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Guestbook</title>
 				<link>http://localhost:1313/guestbook/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/guestbook/</guid>
-				<description>&lt;p&gt;Welcome! Feel free to leave a message.&lt;/p&gt;</description>
+				<description>&lt;p&gt;Thanks for visiting my website. Sign the guestbook to let me know you stopped by!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My Music</title>
