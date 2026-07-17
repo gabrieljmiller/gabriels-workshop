@@ -267,3 +267,11 @@ footer {
         width: 250px;
     }
 }
+
+.center-image {
+  display: block;        /* Changes the image from inline to a block element */
+  margin-left: auto;     /* Automatically calculates left spacing */
+  margin-right: auto;    /* Automatically calculates right spacing */
+  max-width: 50%;       /* Ensures responsiveness on smaller screens */
+  height: auto;          /* Maintains the image aspect ratio */
+}

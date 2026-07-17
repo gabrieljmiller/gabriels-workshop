@@ -18,7 +18,14 @@
 				<link>http://localhost:1313/posts/about/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/about/</guid>
-				<description>&lt;div class=&#34;about-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;about-text&#34;&gt;&#xD;&#xA;&lt;p&gt;Hello and welcome to my website! My name is Gabriel. I&amp;rsquo;m a 23-year-old foster dad who works in IT from my home in Carroll County, Ohio.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;My hobbies include:&#xD;&#xA;&lt;p&gt;Tech&lt;/p&gt;&#xA;&lt;p&gt;Gardening&lt;/p&gt;&#xA;&lt;p&gt;Guitar&lt;/p&gt;&#xA;&lt;p&gt;Reading&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;This is where I put stuff I make and occasionally write blog posts.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;email me at gabriel@gabrielmiller.net&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;about-photo&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/me.jpg&#34; alt=&#34;Photo of Gabriel&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+				<description>&lt;div class=&#34;about-grid&#34;&gt;&#xD;&#xA;&lt;div class=&#34;about-text&#34;&gt;&#xD;&#xA;&lt;p&gt;Hello and welcome to my website! My name is Gabriel. I&amp;rsquo;m a 23-year-old foster dad who works in IT from my home in Carroll County, Ohio.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;My hobbies include:&#xD;&#xA;&lt;p&gt;Tech&lt;/p&gt;&#xA;&lt;p&gt;Gardening&lt;/p&gt;&#xA;&lt;p&gt;Guitar&lt;/p&gt;&#xA;&lt;p&gt;Reading&lt;/p&gt;&#xA;&lt;p&gt;Tabletop RPGs&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;This is where I put stuff I make and occasionally write blog posts.&#xD;&#xA;&lt;br&gt;&#xD;&#xA;email me at gabriel@gabrielmiller.net&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;about-photo&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/me.jpg&#34; alt=&#34;Photo of Gabriel&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>My Every-Day Carry</title>
+				<link>http://localhost:1313/posts/edc/</link>
+				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/edc/</guid>
+				<description>&lt;img src=&#34;http://localhost:1313/images/edc.jpeg&#34; width=&#34;500&#34; &gt;&#xD;&#xA;&lt;p&gt;Pictured above is what can most often be found in my pockets at any given time.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;i&gt;From top left to bottom right&lt;/i&gt;&#xD;&#xA;&lt;H3&gt;Field Notes&lt;/H3&gt;&#xD;&#xA;&lt;p&gt;This is my favorite item in my EDC and has been a game changer after replacing my smartphone. I use a pocket notebook for my to-do list, grocery list, random ideas, stuff to google later, and doodles. Anything important gets noted in Obsidian the next time I am at my desk. This helps me be more mindful and focused compared to using my phone for notes.&#xD;&#xA;&lt;p&gt;I also love the Field Notes brand and I am planning to buy all their national parks editions. But eventually I might get into making my own pocket notebooks.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
