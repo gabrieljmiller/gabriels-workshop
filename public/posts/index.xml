@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Dawn of Everything</title>
+				<link>http://localhost:1313/posts/dawn-of-everything/</link>
+				<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/dawn-of-everything/</guid>
+				<description>&lt;p&gt;After more than a year of dipping in and out of this book, I finally got around to finishing Graeber and Wengrow&#39;s &lt;i&gt;The Dawn of Everything&lt;/i&gt;, thanks to all the doctor&#39;s appointments and other opportunities for waiting around that come with being a foster parent. Not to mention throwing my smartphone into a lake (metaphorically).&lt;/p&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/dawn-of-everything.jpg&#34; class=&#34;center-image&#34; width=&#34;300&#34;&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;I mostly read this for fun rather than in an academic sense and avoided the 150+ pages of footnotes. My main takeaway is simply that it was fun to learn about all sorts of different societies and their methods of organizing themselves—which is aided by the fact that part of the book&#39;s thesis is that prehistoric societies were much more diverse than the traditional story of &#34;societies were simple, egalitarian hunter-gatherers until government was invented.&#34;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Worker&#39;s Councils</title>
+				<link>http://localhost:1313/posts/workers-councils/</link>
+				<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/workers-councils/</guid>
+				<description>&lt;p&gt;I started &lt;i&gt;Workers Councils&lt;/i&gt; by Anton Pannekoek with my local IWW bookclub, but in my typical fashion, I fell behind after the first couple meetings. Exacerbated by the fact that my dog ripped the book half to shreds, I put it down for a while. Last week I picked it back up and finally finished it. Most of the book was legible, luckily, save for a few pages in the back.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>About me</title>
 				<link>http://localhost:1313/posts/about/</link>
