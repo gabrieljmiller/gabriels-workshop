@@ -8,6 +8,8 @@ layound = 'page'
 <p>After more than a year of dipping in and out of this book, I finally got around to finishing Graeber and Wengrow's <i>The Dawn of Everything</i>, thanks to all the doctor's appointments and other opportunities for waiting around that come with being a foster parent. Not to mention throwing my smartphone into a lake (metaphorically).</p>
 
 <br>
+<img src="/images/dawn-of-everything.jpg" class="center-image">
+<br>
 
 <p>I mostly read this for fun rather than in an academic sense and avoided the 150+ pages of footnotes. My main takeaway is simply that it was fun to learn about all sorts of different societies and their methods of organizing themselves—which is aided by the fact that part of the book's thesis is that prehistoric societies were much more diverse than the traditional story of "societies were simple, egalitarian hunter-gatherers until government was invented."</p>
 
