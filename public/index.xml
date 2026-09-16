@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rediscovering Jesus</title>
+				<link>http://localhost:1313/posts/naked-anabaptist/</link>
+				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/naked-anabaptist/</guid>
+				<description>&lt;p&gt;In the last few months I found myself returning to church officially after years of testing the waters. I experienced a wide section of the Christian denominational spectrum in my childhood that included Mennonite, Baptist, Charismatic Pentecostal, and others. For the most part my experience with religion was interwoven with familial conflict that spiraled into some fairly traumatic moments that left me with quite a bit of anxiety surrounding religious environments. I stepped away from religion and considered myself an atheist for some time.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>The Dawn of Everything</title>
 				<link>http://localhost:1313/posts/dawn-of-everything/</link>
