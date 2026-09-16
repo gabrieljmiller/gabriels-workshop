@@ -5,7 +5,7 @@ title = "Worker's Councils"
 layound = 'page'
 +++
 
-<p>I started <i>Workers Councils</i> by Anton Pannekoek with my local IWW bookclub, but in my typical fashion, I fell behind after the first couple meetings. Exacerbated by the fact that my dog ripped the book half to shreds, I put it down for a while. Last week I picked it back up and finally finished it. Most of the book was legible, luckily, save for a few pages in the back.</p>
+<p>I started <i>Workers Councils</i> by Anton Pannekoek with my local IWW bookclub, but in my typical fashion, I fell behind after the first couple meetings. Exacerbated by the fact that my dog ripped the book half to shreds, I put it down for a while (the book not my dog). Last week I picked it back up and finally finished it. Most of the book was legible, luckily, save for a few pages in the back.</p>
 
 <img src="/images/workers-councils.webp" class="center-image">
 
