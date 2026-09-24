@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rednecks are Comrades Too</title>
+				<link>http://localhost:1313/posts/rednecks-are-comrades/</link>
+				<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/rednecks-are-comrades/</guid>
+				<description>&lt;p&gt;&lt;i&gt;Originally published in &lt;a href=https://cantonfnb.com/assets/zines/vol6.html&gt;News Not Bombs Vol 6&lt;/a&gt; By Canton Food Not Bombs&lt;/i&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;What qualities come to mind when you think of a “redneck”? Is it someone who is uneducated, intolerant, and politically far-right? You may be surprised that the term “redneck” was actually used to describe people with strong lefist principles In 1921, the largest labor uprising in American history took place in West Virginia, known as the Battle of Blair Mountain.Around 10,000 coal miners battled 3,000 lawmen who were preventing them from unionizing. the union members wore a red bandana around their necks to symbolize their solidarity—thus, the term “redneck” was born out of working-class solidarity. Urban lefists must not dismiss the rural working class because of stereotypes but rather accept them as comrades and build solidarity with them.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Rediscovering Jesus</title>
 				<link>http://localhost:1313/posts/naked-anabaptist/</link>

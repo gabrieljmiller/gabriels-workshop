@@ -1,0 +1,37 @@
++++
+date = '2026-09-24'
+draft = false
+title = "Rednecks are Comrades Too"
+layound = 'page'
++++
+
+<i>Originally published in <a href=https://cantonfnb.com/assets/zines/vol6.html>News Not Bombs Vol 6</a> By Canton Food Not Bombs</i>
+<br>
+
+<p>What qualities come to mind when you think of a “redneck”? Is it someone who is uneducated, intolerant, and politically far-right? You may be surprised that the term “redneck” was actually used to describe people with strong lefist principles In 1921, the largest labor uprising in American history took place in West Virginia, known as the Battle of Blair Mountain.Around 10,000 coal miners battled 3,000 lawmen who were preventing them from unionizing. the union members wore a red bandana around their necks to symbolize their solidarity—thus, the term “redneck” was born out of working-class solidarity. Urban lefists must not dismiss the rural working class because of stereotypes but rather accept them as comrades and build solidarity with them.</p>
+<br>
+
+<p>It is true you would have a hard time fnding many self-proclaimed lefists in rural America; and if you look at an election map, most rural people appear rather right-leaning. However, I would argue that most working-class people are lefist at their core—regardless of how they vote. They are against the corporations that exploit them, the landlords that steal from them, and the government that keeps these systems in place. Despite not having much, they will be the first to give you a meal and a place to sleep when you need it.</p>
+<br>
+
+<p>Why, then, do rural Americans support such hateful policies that go against their own best interests? The answer is that the Republican Party has one of the most well-funded and organized propaganda campaigns in the world, and rural white working-class people are their main target.</p>
+<br>
+
+<p>These individuals, who have been oppressed their whole lives, are naturally angry. Right-wing media works day and night to redirect that anger toward other oppressed groups. For example, they are told that “illegal immigrants” are stealing jobs, when in reality, employers are taking advantage of their vulnerable status to pay them extremely low wages. Poor white people are led to believe that Black people are all criminals, when in reality they are suering from a similar systemic poverty. In other words, the goal of this propaganda is to divide and conquer. is is not to say that rural people would be better o voting Democrat. To most rural folk, the party represents the urban liberals who look down on them as inferior for their traditional values and simple way of living.</p>
+<br>
+
+<img src="/images/coal-miner.png" class="center-image">
+<p><i>A Blair Mountain coal miner</i></p>
+<br>
+
+<p>We all know people who are trapped in the propaganda machine of the Right. It is nearly impossible to convince someone to change their views when there is so much propaganda working against you. So, what can we, as leftists, do? The answer is to show them leftism rather than tell them about it. We must simply live our values and lead by example. Acquire and distribute food that would otherwise be thrown away, help those who need it, organize community events, speak against oppression, and most importantly, invite them to join. Though they may not agree with you in theory, they will agree with your actions and trust that you have good intentions and are not just one of the evil socialists they see on TV. From there, you can meet them where they stand and talk (not debate) with them. If you put action and solidarity first, they may come around to the 
+theory side of things too.</p>
+<br>
+
+<p>One nal but important note: many rural people will have at least some racist, sexist, homophobic, and otherwise hateful views. As I mentioned before, this hatred is learned through propaganda, and therefore it can be unlearned. However, we must not tolerate hateful speech or action. When it comes to white supremacists, religious fundamentalists, fascists, or anyone who is actively causing harm or making the community unsafe, it is far more important to protect your community from these individuals than it is to try and reform them.</p>
+<br>
+
+<p>Remember that the greatest fear of the rich and powerful is a united working class. is is why the government and capitalists work so hard to divide us. If we want to create a better world, we have to build solidarity with all workers—even with those we don’t initially agree with.</p>
+<br>
+
+<img src="/images/same-old-line-up.png" class="center-image">
